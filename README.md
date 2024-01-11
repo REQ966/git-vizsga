@@ -5,4 +5,5 @@
 5. git checkout - új branchre átlépés
 6. git add - app.js hozzáadása a consolehoz
 7. git commit -m - app.js módosítása (oldal betöltődés)
-8.
+8. git commit -m - weboldal háttérszínének változtatása
+9. git pusholása saját repoba
